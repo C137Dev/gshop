@@ -1,0 +1,20 @@
+- Farbdesign: https://timbdesign.com/web-design-color-palettes (Schwarz-Gold!)
+- Scrolldesign: agantty.com 
+- Inhalt der Webseite (und ggf. Shops) wird in Form von "Karten" angezeigt (siehe https://www.goldblack.de/de/?bid=131998-26134-at102799_a150595_m12_p3439_cDE)
+- Bestellungen ohne E-Payment (z.B. Paypal)
+- verbindliche Bestellungen werden in Form von E-Mails eingereicht, weil sich automatischer Versand bei Unikaten nicht rechnen würde
+- Händischer Versand
+- Allgemeine Geschäftsbedingungen / Datenschutzerklärung / Impressum muss erstellt werden!
+- Anwenderfreundliche Administration der Seite (Backend, damit man z.B: in Eigenregie neue Produkte online stellen kann oder entfernen etc.)
+- Darstellung von Serviceleistungen (z.B. Workshop, wie das Erstellen eigener Eheringe anbieten)
+- Anbindung zu Social-Media Seiten
+- Bei Unsicherheit wird ggf. erst die Webseite erstellt und dann bei Zuspruch zusätzlich der Web-Shop
+- benutzerfreundliches Kontaktformular
+- Gästebuch (Bewertungen der Nutzer über Produkte und Dienstleistungen)
+- Verweis auf kooperierende Hotels
+- Bei Buchungen von Serviceleistungen (wie z.B. Erstellung eigener Eheringe) können Hotels vorgeschlagen werden
+
+Mögliche Herausforderungen:
+- Hosting! 1&1 ist ggf. ungeeignet für Webshops mit Wordpress (Wordpress ist ein Programm mit dem man Online-Shops erstellen kann)
+- Sicherheit der Webseite und Web-Shops. Die Sicherheit teilweise durch den Host gewährleistet.
+ 
